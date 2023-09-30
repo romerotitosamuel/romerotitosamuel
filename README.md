@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" hight="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="40">
 
 <!--
 **romerotitosamuel/romerotitosamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
