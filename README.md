@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://google.com" target="_blank">
+<a href="#" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="40">
 </a>
 <!--
