@@ -4,7 +4,7 @@
 </a>
 <br>
 
-!O(https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg)
+![HOla](https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg "holad2")
 # my resume <br>
 <code>
 "summary_statement": {
