@@ -16,7 +16,7 @@ Nonprofit project (Emanuel Church in Bolivia)
 - Functions: Metronome, read songs, read chords, songs linked to YouTube music, change chord’s tone, CRUD functions with data songs. 
 - Technologies: HTML, CSS, JavaScript, Saas, React, Progressive Web App, Firebase. 
 
-**CERTIFICATIONS** [:paperclip:](https://credly.com/users/romerotitosamuel)
+**CERTIFICATIONS** [:chain:](https://credly.com/users/romerotitosamuel)
 
 - ISTQB Certified Tester Foundation Level (CTFL) | Brightest
 - SFPC Scrum Foundation Professional Certified | Certiprof
