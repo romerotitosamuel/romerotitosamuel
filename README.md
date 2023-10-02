@@ -10,13 +10,13 @@ Adding, I have great capacity for project management, decision making and manage
 uTest Platform (Web platform for freelancer testers) 
 - Exploratory testing, test cases execution, bug reports. 
 
-**Web application, Music church assistant** <emanuel-worship.web.app>
+**Web application, Music church assistant** [emanuel-worship.web.app](https://emanuel-worship.web.app)
 Nonprofit project (Emanuel Church in Bolivia) 
 - Development of Web application for read music letters, chords, listening music lists for Emanuel Church Ministery. 
 - Functions: Metronome, read songs, read chords, songs linked to YouTube music, change chord’s tone, CRUD functions with data songs. 
 - Technologies: HTML, CSS, JavaScript, Saas, React, Progressive Web App, Firebase. 
 
-**CERTIFICATIONS** [:papaerclip:](https://credly.com/users/romerotitosamuel)
+**CERTIFICATIONS** [:paperclip:](https://credly.com/users/romerotitosamuel)
 
 - ISTQB Certified Tester Foundation Level (CTFL) | Brightest
 - SFPC Scrum Foundation Professional Certified | Certiprof
