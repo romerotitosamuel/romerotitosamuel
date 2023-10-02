@@ -35,13 +35,13 @@ Nonprofit project (Emanuel Church in Bolivia)
 - **Intermediate:** JavaScript, Software Testing. 
 - **Fundamentals:** React, Progressive Web Apps, Git, Firebase, HTML, CSS, Saas, NodeJS, Python, Networking, Cypress, Jira, Postman.
 
-WORKEXPERIENCE (INDUSTRIAL) 
+**WORKEXPERIENCE (INDUSTRIAL)**
 
-**Project Quality Manager** (February 2020 – Current) 
-Boldrill S.R.L. (Drilling and Corrosion Control Company) 
+**Project Quality Manager** (February 2020 – Current)
+Boldrill S.R.L. (Drilling and Corrosion Control Company)
 
-**Technical Drawer - Detail Engineering** (September 2017 - January 2020) 
-Prosertec Engineering (Engineering and Oil Projects Company) 
+**Technical Drawer - Detail Engineering** (September 2017 - January 2020)
+Prosertec Engineering (Engineering and Oil Projects Company)
 
 <!--
 **romerotitosamuel/romerotitosamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
