@@ -2,12 +2,19 @@
 <a href="https://linkedin.com" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="40">
 </a>
-~~~
+# my resume
+<code>
 "summary_statement": {
   "name": "Samuel Romero A.",
   "perfil": "QA Tester",
 }
-~~~
+</code>
+`
+"summary_statement": {
+  "name": "Samuel Romero A.",
+  "perfil": "QA Tester",
+}
+`
 
 
 
