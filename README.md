@@ -6,11 +6,11 @@ Adding, I have great capacity for project management, decision making and manage
 
 **WORK EXPERIENCE** 
 
-**Freelancer Tester**
-uTest Platform (Web platform for freelancer testers) 
+**Freelancer Tester**  
+uTest Platform (Web platform for freelancer testers)  
 - Exploratory testing, test cases execution, bug reports. 
 
-**Web application, Music church assistant** [emanuel-worship.web.app](https://emanuel-worship.web.app) <hr>
+**Web application, Music church assistant** [emanuel-worship.web.app](https://emanuel-worship.web.app)  
 Nonprofit project (Emanuel Church in Bolivia) 
 - Development of Web application for read music letters, chords, listening music lists for Emanuel Church Ministery. 
 - Functions: Metronome, read songs, read chords, songs linked to YouTube music, change chord’s tone, CRUD functions with data songs. 
@@ -37,11 +37,11 @@ Nonprofit project (Emanuel Church in Bolivia)
 
 **WORKEXPERIENCE (INDUSTRIAL)**
 
-**Project Quality Manager** (February 2020 – Current)
-Boldrill S.R.L. (Drilling and Corrosion Control Company)
+**Project Quality Manager** (February 2020 – Current)  
+Boldrill S.R.L. (Drilling and Corrosion Control Company)  
 
-**Technical Drawer - Detail Engineering** (September 2017 - January 2020)
-Prosertec Engineering (Engineering and Oil Projects Company)
+**Technical Drawer - Detail Engineering** (September 2017 - January 2020)  
+Prosertec Engineering (Engineering and Oil Projects Company)  
 
 <!--
 **romerotitosamuel/romerotitosamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
