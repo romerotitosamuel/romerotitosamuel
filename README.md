@@ -4,18 +4,44 @@ I have slight experience in personal frontend development project and software t
 
 Adding, I have great capacity for project management, decision making and management work teams thanks to more than 4 years of experience in quality control in industrial projects. 
 
-**Certifications** [¤](https://credly.com/users/romerotitosamuel)
+**WORK EXPERIENCE** 
 
-- ISTQB Certified Tester Foundation Level (CTFL) | Brightest (September 2023) 
-- SFPC Scrum Foundation Professional Certified | Certiprof (September 2023) 
+**Freelancer Tester**
+uTest Platform (Web platform for freelancer testers) 
+- Exploratory testing, test cases execution, bug reports. 
 
-**Education**
+**Web application, Music church assistant** <emanuel-worship.web.app>
+Nonprofit project (Emanuel Church in Bolivia) 
+- Development of Web application for read music letters, chords, listening music lists for Emanuel Church Ministery. 
+- Functions: Metronome, read songs, read chords, songs linked to YouTube music, change chord’s tone, CRUD functions with data songs. 
+- Technologies: HTML, CSS, JavaScript, Saas, React, Progressive Web App, Firebase. 
 
-- CCNA: Introduction to Networks | Cisco Networking Academy (August 2022) 
-- PCAP: Programing Essentials in Python | TecNet Technology & Networking (March 2022) 
-- Higher Education Diploma | Bethesda University – Bolivia (November 2019) 
-- JavaScript Fundamentals | SoloLearn (October 2019) 
-- Bachelor of Science (B.S.) in Petroleum Engineering | Aquino’s University Bolivia (October 2013)
+**CERTIFICATIONS** [:papaerclip:](https://credly.com/users/romerotitosamuel)
+
+- ISTQB Certified Tester Foundation Level (CTFL) | Brightest
+- SFPC Scrum Foundation Professional Certified | Certiprof
+
+**EDUCATION**
+
+- CCNA: Introduction to Networks | Cisco Networking Academy
+- PCAP: Programing Essentials in Python | TecNet Technology & Networking
+- Higher Education Diploma | Bethesda University – Bolivia
+- JavaScript Fundamentals | SoloLearn
+- Bachelor of Science (B.S.) in Petroleum Engineering | Aquino’s University Bolivia
+
+**SKILLS**
+
+- **Advanced:** Work Teams Management, Industrial Projects Management. 
+- **Intermediate:** JavaScript, Software Testing. 
+- **Fundamentals:** React, Progressive Web Apps, Git, Firebase, HTML, CSS, Saas, NodeJS, Python, Networking, Cypress, Jira, Postman.
+
+WORKEXPERIENCE (INDUSTRIAL) 
+
+**Project Quality Manager** (February 2020 – Current) 
+Boldrill S.R.L. (Drilling and Corrosion Control Company) 
+
+**Technical Drawer - Detail Engineering** (September 2017 - January 2020) 
+Prosertec Engineering (Engineering and Oil Projects Company) 
 
 <!--
 **romerotitosamuel/romerotitosamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
