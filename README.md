@@ -4,7 +4,7 @@ I have slight experience in personal frontend development project and software t
 
 Adding, I have great capacity for project management, decision making and management work teams thanks to more than 4 years of experience in quality control in industrial projects. 
 
-**Certifications** ¤
+**Certifications** [¤](https://credly.com/users/romerotitosamuel)
 
 - ISTQB Certified Tester Foundation Level (CTFL) | Brightest (September 2023) 
 - SFPC Scrum Foundation Professional Certified | Certiprof (September 2023) 
