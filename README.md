@@ -2,7 +2,10 @@
 <a href="https://linkedin.com" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="40">
 </a>
-# my resume
+<br>
+
+!O(https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg)
+# my resume <br>
 <code>
 "summary_statement": {
   "name": "Samuel Romero A.",
