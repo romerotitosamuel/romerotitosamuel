@@ -1,24 +1,10 @@
-### Hi there 👋
-<a href="https://linkedin.com" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="40">
-</a>
-<br>
-
-![HOla](https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg "holad2")
 # my resume <br>
 <code>
 "summary_statement": {
   "name": "Samuel Romero A.",
   "perfil": "QA Tester",
 }
-</code>
-`
-"summary_statement": {
-  "name": "Samuel Romero A.",
-  "perfil": "QA Tester",
-}
-`
-
+<code>
 
 
 <!--
