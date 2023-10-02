@@ -1,10 +1,10 @@
-# my resume <br>
-<code>
-"summary_statement": {
-  "name": "Samuel Romero A.",
-  "perfil": "QA Tester",
-}
-<code>
+Summary Statement 
+
+QA Tester with knowledge and fundamentals in software testing with CTFL Certification (Certified Tester Foundation Level) and SFPC (Scrum Foundation Professional Certification). 
+
+Slight experience in personal frontend development project and software testing in uTest platform.  
+
+Adding, great capacity for project management, decision making and management work teams thanks to more than 4 years of experience in quality control in industrial projects. 
 
 
 <!--
