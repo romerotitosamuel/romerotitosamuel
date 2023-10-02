@@ -1,4 +1,4 @@
-**Summary Statement**
+# **Summary Statement**
 
 Hi there, I am a QA Tester with knowledge and fundamentals in software testing with CTFL Certification (Certified Tester Foundation Level) and SFPC (Scrum Foundation Professional Certification). 
 
