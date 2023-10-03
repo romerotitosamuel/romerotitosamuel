@@ -35,7 +35,7 @@ Nonprofit project (Emanuel Church in Bolivia)
 - **Intermediate:** JavaScript, Software Testing. 
 - **Fundamentals:** React, Progressive Web Apps, Git, Firebase, HTML, CSS, Saas, NodeJS, Python, Networking, Cypress, Jira, Postman.
 
-**WORKEXPERIENCE (INDUSTRIAL)**
+**WORK EXPERIENCE (INDUSTRIAL)**
 
 **Project Quality Manager** (February 2020 – Current)  
 Boldrill S.R.L. (Drilling and Corrosion Control Company)  
