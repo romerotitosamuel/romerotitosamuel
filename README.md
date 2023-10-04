@@ -18,8 +18,7 @@ Nonprofit project (Emanuel Church in Bolivia)
 
 **CERTIFICATIONS** [📁](https://credly.com/users/romerotitosamuel)  
 
-<img src="https://github.com/romerotitosamuel/images/blob/main/istqb-certified-tester-foundation-level-ctfl%20(2).png" height="100">
-<img src="https://github.com/romerotitosamuel/images/blob/main/scrum-foundation-professional-certification-sfpc.png" height="100">  
+<img src="https://github.com/romerotitosamuel/images/blob/main/istqb-certified-tester-foundation-level-ctfl%20(2).png" height="80"><img src="https://github.com/romerotitosamuel/images/blob/main/scrum-foundation-professional-certification-sfpc.png" height="80">  
 
 - ISTQB Certified Tester Foundation Level (CTFL) | Brightest  
 - SFPC Scrum Foundation Professional Certified | Certiprof
