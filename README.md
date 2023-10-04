@@ -17,7 +17,7 @@ Nonprofit project (Emanuel Church in Bolivia)
 - Technologies: HTML, CSS, JavaScript, Saas, React, Progressive Web App, Firebase. 
 
 **CERTIFICATIONS** [📁](https://credly.com/users/romerotitosamuel)
-
+<img src="https://github.com/romerotitosamuel/images/blob/main/ccna-introduction-to-networks.png" >
 - ISTQB Certified Tester Foundation Level (CTFL) | Brightest
 - SFPC Scrum Foundation Professional Certified | Certiprof
 
