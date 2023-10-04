@@ -1,8 +1,8 @@
-Hi there, I am a QA Tester with knowledge and fundamentals in software testing with CTFL Certification (Certified Tester Foundation Level) and SFPC (Scrum Foundation Professional Certification). 
+QA Tester with knowledge and fundamentals in software testing with CTFL Certification (Certified Tester Foundation Level) and SFPC (Scrum Foundation Professional Certification). 
 
-I have slight experience in personal frontend development project and software testing in uTest platform.  
+Slight experience in personal frontend development project and software testing in uTest platform.  
 
-Adding, I have great capacity for project management, decision making and management work teams thanks to more than 4 years of experience in quality control in industrial projects. 
+Adding, great capacity for project management, decision making and management work teams thanks to more than 4 years of experience in quality control in industrial projects. 
 
 **WORK EXPERIENCE** 
 
