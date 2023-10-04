@@ -20,7 +20,8 @@ Nonprofit project (Emanuel Church in Bolivia)
 
 <img src="https://github.com/romerotitosamuel/images/blob/main/istqb-certified-tester-foundation-level-ctfl%20(2).png" height="100">
 <img src="https://github.com/romerotitosamuel/images/blob/main/scrum-foundation-professional-certification-sfpc.png" height="100">  
-- ISTQB Certified Tester Foundation Level (CTFL) | Brightest
+
+- ISTQB Certified Tester Foundation Level (CTFL) | Brightest  
 - SFPC Scrum Foundation Professional Certified | Certiprof
 
 **EDUCATION**
