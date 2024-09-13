@@ -1,10 +1,17 @@
-QA Tester with knowledge and fundamentals in software testing with CTFL Certification (Certified Tester Foundation Level) and SFPC (Scrum Foundation Professional Certification). 
+Web Developer with great skills with React, PWAs, responsive design, relational database design, Rest API and others.
 
-Slight experience in personal frontend development project and software testing in uTest platform.  
+QA Automation Tester with knowledge and fundamentals in software testing with CTFL Certification (Certified Tester Foundation Level) and SFPC (Scrum Foundation Professional Certification) with handling tools such as Cypress, postman, git, Jira.
 
-Adding, great capacity for project management, decision making and management work teams thanks to more than 4 years of experience in quality control in industrial projects. 
+Experience with freelance frontend development projects and software testing.  
+
+Adding, great capacity for project management, decision making and management work teams thanks to more than 4 years of experience in quality control in industrial projects.
+
 
 **WORK EXPERIENCE** 
+
+**Freelance Tester**
+Bemobi Mobile SA. (via upWork) 
+- Exploratory testing, test cases execution, bug reports, VAS testing.
 
 **Freelancer Tester**  
 uTest Platform (Web platform for freelancer testers)  
@@ -25,8 +32,14 @@ Nonprofit project (Emanuel Church in Bolivia)
 
 **EDUCATION**
 
+- SQL | SoloLearn
+- Postman Beginner's Course - API Testing | freecodecamp
+- Cypress: E2E Automation Testing con JS | Udemy
+- Training course ISTQB Foundation Level | DTC Consultores
 - CCNA: Introduction to Networks | Cisco Networking Academy
 - PCAP: Programing Essentials in Python | TecNet Technology & Networking
+- Tester | Carlos Slim Foundation
+- PHP | SoloLearn
 - Higher Education Diploma | Bethesda University – Bolivia
 - JavaScript Fundamentals | SoloLearn
 - Bachelor of Science (B.S.) in Petroleum Engineering | Aquino’s University Bolivia
@@ -34,12 +47,12 @@ Nonprofit project (Emanuel Church in Bolivia)
 **SKILLS**
 
 - **Advanced:** Work Teams Management, Industrial Projects Management. 
-- **Intermediate:** JavaScript, Software Testing. 
-- **Fundamentals:** React, Progressive Web Apps, Git, Firebase, HTML, CSS, Saas, NodeJS, Python, Networking, Cypress, Jira, Postman.
+- **Intermediate:** JavaScript, React, Software Testing. 
+- **Fundamentals:** Progressive Web Apps, Git, Firebase, HTML, CSS, Saas, NodeJS, Python, Django, Networking, Cypress, Jira, Postman, SQL database design, Astro.
 
 **WORK EXPERIENCE (INDUSTRIAL)**
 
-**Project Quality Manager** (February 2020 – Current)  
+**Project Quality Manager** (February 2020 – February 2024)  
 Boldrill S.R.L. (Drilling and Corrosion Control Company)  
 
 **Technical Drawer - Detail Engineering** (September 2017 - January 2020)  
